@@ -1,0 +1,167 @@
+[System Process]	0	TCP	desktop-dderd18	49691	52.169.83.3	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-dderd18	49711	sea30s02-in-f3.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	49792	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49793	[fe80:0:0:0:a462:f5ee:faa8:29d]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49794	[fe80:0:0:0:6da3:f14d:89b3:ace4]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49795	[fe80:0:0:0:e8e7:7ad3:3ed1:b7c7]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49796	[fe80:0:0:0:1084:eb59:f61b:45d]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49797	[fe80:0:0:0:7ceb:7d1c:4ad3:5ea4]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49798	[fe80:0:0:0:d068:133d:5039:2bec]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49799	[fe80:0:0:0:4530:a7d1:4313:429]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49800	[fe80:0:0:0:f056:8ee4:bd38:84de]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49801	[fe80:0:0:0:210f:b6b7:d13:d04a]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49802	[fe80:0:0:0:984:45ed:297:46b4]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49803	[fe80:0:0:0:61c1:b4e4:8a8f:10a1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49804	[fe80:0:0:0:e9cf:62ff:87b6:d692]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49809	[fe80:0:0:0:4530:a7d1:4313:429]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49810	[fe80:0:0:0:61c1:b4e4:8a8f:10a1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49811	[fe80:0:0:0:210f:b6b7:d13:d04a]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	49812	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49813	[fe80:0:0:0:d068:133d:5039:2bec]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49814	[fe80:0:0:0:1084:eb59:f61b:45d]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49815	[fe80:0:0:0:e8e7:7ad3:3ed1:b7c7]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49816	[fe80:0:0:0:e9cf:62ff:87b6:d692]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49817	[fe80:0:0:0:6da3:f14d:89b3:ace4]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49818	[fe80:0:0:0:984:45ed:297:46b4]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49819	[fe80:0:0:0:f056:8ee4:bd38:84de]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49820	[fe80:0:0:0:7ceb:7d1c:4ad3:5ea4]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	desktop-dderd18	49821	[fe80:0:0:0:a462:f5ee:faa8:29d]	wsd	TIME_WAIT										
+[System Process]	0	TCP	desktop-dderd18	49744	a23-60-72-31.deploy.static.akamaitechnologies.com	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-dderd18	49693	52.169.83.3	https	TIME_WAIT										
+chrome.exe	2564	TCP	desktop-dderd18	49708	any-in-2678.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49709	any-in-2678.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49710	sea30s02-in-f3.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49712	sea30s02-in-f13.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49713	sea15s07-in-f3.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49714	sea15s07-in-f10.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49715	sea15s12-in-f206.1e100.net	https	ESTABLISHED	8	2,320	18	6,621						
+chrome.exe	2564	TCP	desktop-dderd18	49716	server-99-86-32-83.sea19.r.cloudfront.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49717	sea30s01-in-f10.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49721	ec2-52-55-93-128.compute-1.amazonaws.com	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49722	den03s10-in-f42.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49723	sea30s02-in-f3.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49724	sea30s02-in-f1.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49725	sea15s12-in-f195.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49726	sea15s11-in-f174.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49727	sea30s02-in-f1.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49728	gru09s10-in-f67.1e100.net	http	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49729	ie-in-f188.1e100.net	5228	ESTABLISHED			1	392						
+chrome.exe	2564	TCP	desktop-dderd18	49730	185.199.111.154	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49731	lb-192-30-255-113-sea.github.com	https	CLOSE_WAIT			1	24						
+chrome.exe	2564	TCP	desktop-dderd18	49732	lb-192-30-255-113-sea.github.com	https	CLOSE_WAIT			1	24						
+chrome.exe	2564	TCP	desktop-dderd18	49733	185.199.111.154	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49734	151.101.52.133	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49735	151.101.52.133	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49736	lb-192-30-255-113-sea.github.com	https	CLOSE_WAIT			1	24						
+chrome.exe	2564	TCP	desktop-dderd18	49737	lb-192-30-255-113-sea.github.com	https	CLOSE_WAIT			1	24						
+chrome.exe	2564	TCP	desktop-dderd18	49738	lb-140-82-113-26-iad.github.com	https	ESTABLISHED	1	28	1	24						
+chrome.exe	2564	TCP	desktop-dderd18	49739	sea15s11-in-f174.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49740	lb-192-30-255-116-sea.github.com	https	CLOSE_WAIT			1	24						
+chrome.exe	2564	TCP	desktop-dderd18	49741	ec2-34-193-127-114.compute-1.amazonaws.com	https	CLOSE_WAIT			1	31						
+chrome.exe	2564	TCP	desktop-dderd18	49745	a23-75-106-237.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49748	server-13-32-253-131.sea19.r.cloudfront.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49749	server-13-32-253-224.sea19.r.cloudfront.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49751	server-13-32-253-224.sea19.r.cloudfront.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49752	ec2-52-39-8-230.us-west-2.compute.amazonaws.com	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49754	a23-38-183-209.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49755	a23-47-184-143.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49756	142.0.160.13	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49757	sea30s01-in-f8.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49758	151.101.52.133	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49759	lb-140-82-113-26-iad.github.com	https	ESTABLISHED	1	28	1	24						
+chrome.exe	2564	TCP	desktop-dderd18	49760	151.101.52.133	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49761	sea30s01-in-f2.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49762	sea15s07-in-f2.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49763	sea30s02-in-f6.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49764	72.21.91.187	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49765	sea15s07-in-f2.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49766	13.107.21.200	https	CLOSE_WAIT			1	31						
+chrome.exe	2564	TCP	desktop-dderd18	49767	ec2-35-163-101-163.us-west-2.compute.amazonaws.com	https	CLOSE_WAIT			1	31						
+chrome.exe	2564	TCP	desktop-dderd18	49768	a23-37-226-128.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49769	108-174-10-14.fwd.linkedin.com	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49772	104.18.99.194	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49774	104.26.12.195	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49775	151.101.54.109	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49777	200.216.186.35.bc.googleusercontent.com	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49778	101.59.190.35.bc.googleusercontent.com	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49779	47.67.201.35.bc.googleusercontent.com	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49780	sea30s02-in-f3.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49782	ec2-52-9-167-14.us-west-1.compute.amazonaws.com	https	CLOSE_WAIT			1	31						
+chrome.exe	2564	TCP	desktop-dderd18	49783	a23-47-189-186.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49784	sea15s12-in-f10.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49785	ec2-34-192-68-203.compute-1.amazonaws.com	https	CLOSE_WAIT			1	31						
+chrome.exe	2564	TCP	desktop-dderd18	49786	74.125.20.155	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49787	ec2-35-161-52-15.us-west-2.compute.amazonaws.com	https	CLOSE_WAIT			1	31						
+chrome.exe	2564	TCP	desktop-dderd18	49788	104.20.131.56	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49789	a23-75-11-138.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49791	47.67.201.35.bc.googleusercontent.com	https	ESTABLISHED										
+chrome.exe	72	UDP	DESKTOP-DDERD18	5353	*	*				6	168						
+chrome.exe	72	UDP	DESKTOP-DDERD18	5353	*	*											
+chrome.exe	72	UDPV6	desktop-dderd18	5353	*	*											
+chrome.exe	2564	TCP	desktop-dderd18	49808	sea15s12-in-f206.1e100.net	https	ESTABLISHED										
+chrome.exe	2564	TCP	desktop-dderd18	49825	sea15s11-in-f3.1e100.net	https	ESTABLISHED	7	1,753	6	5,451						
+chrome.exe	2564	TCP	desktop-dderd18	49826	filter82.adblockplus.org	https	SYN_SENT										
+chrome.exe	2564	TCP	desktop-dderd18	49827	filter82.adblockplus.org	https	SYN_SENT										
+lsass.exe	680	TCP	DESKTOP-DDERD18	49664	DESKTOP-DDERD18	0	LISTENING										
+lsass.exe	680	TCPV6	desktop-dderd18	49664	desktop-dderd18	0	LISTENING										
+SearchUI.exe	5484	TCP	desktop-dderd18	49696	204.79.197.220	https	CLOSE_WAIT			1	31						
+SearchUI.exe	5484	TCP	desktop-dderd18	49698	204.79.197.222	https	ESTABLISHED										
+SearchUI.exe	5484	TCP	desktop-dderd18	49699	13.107.6.254	https	ESTABLISHED										
+SearchUI.exe	5484	TCP	desktop-dderd18	49700	204.79.197.254	https	ESTABLISHED										
+SearchUI.exe	5484	TCP	desktop-dderd18	49701	13.107.3.254	https	ESTABLISHED										
+SearchUI.exe	5484	TCP	desktop-dderd18	49702	72.21.81.200	https	ESTABLISHED										
+SearchUI.exe	5484	TCP	desktop-dderd18	49703	51.4.151.200	https	ESTABLISHED										
+SearchUI.exe	5484	TCP	desktop-dderd18	49705	131.253.33.254	https	ESTABLISHED										
+SearchUI.exe	5484	TCP	desktop-dderd18	49706	72.21.81.200	https	ESTABLISHED										
+services.exe	644	TCP	DESKTOP-DDERD18	49670	DESKTOP-DDERD18	0	LISTENING										
+services.exe	644	TCPV6	desktop-dderd18	49670	desktop-dderd18	0	LISTENING										
+spoolsv.exe	2596	TCP	DESKTOP-DDERD18	49669	DESKTOP-DDERD18	0	LISTENING										
+spoolsv.exe	2596	TCPV6	desktop-dderd18	49669	desktop-dderd18	0	LISTENING										
+svchost.exe	932	TCP	DESKTOP-DDERD18	epmap	DESKTOP-DDERD18	0	LISTENING										
+svchost.exe	4676	TCP	DESKTOP-DDERD18	5040	DESKTOP-DDERD18	0	LISTENING										
+svchost.exe	1128	TCP	DESKTOP-DDERD18	49666	DESKTOP-DDERD18	0	LISTENING										
+svchost.exe	1804	TCP	DESKTOP-DDERD18	49667	DESKTOP-DDERD18	0	LISTENING										
+svchost.exe	1464	TCP	DESKTOP-DDERD18	49668	DESKTOP-DDERD18	0	LISTENING										
+svchost.exe	3044	TCP	desktop-dderd18	49674	52.242.211.89	https	ESTABLISHED										
+svchost.exe	1200	TCP	desktop-dderd18	49805	52.169.83.3	https	ESTABLISHED										
+svchost.exe	1200	TCP	DESKTOP-DDERD18	ms-do	DESKTOP-DDERD18	0	LISTENING										
+svchost.exe	5216	UDP	desktop-dderd18	ssdp	*	*				12	1,368						
+svchost.exe	5216	UDP	DESKTOP-DDERD18	ssdp	*	*											
+svchost.exe	3560	UDP	DESKTOP-DDERD18	ws-discovery	*	*				14	8,736						
+svchost.exe	3560	UDP	DESKTOP-DDERD18	ws-discovery	*	*											
+svchost.exe	3768	UDP	DESKTOP-DDERD18	ws-discovery	*	*		4	4,868	14	8,736						
+svchost.exe	3768	UDP	DESKTOP-DDERD18	ws-discovery	*	*											
+svchost.exe	4676	UDP	DESKTOP-DDERD18	5050	*	*											
+svchost.exe	2016	UDP	DESKTOP-DDERD18	5353	*	*		6	168	6	168						
+svchost.exe	2016	UDP	DESKTOP-DDERD18	llmnr	*	*											
+svchost.exe	3560	UDP	DESKTOP-DDERD18	50283	*	*		14	8,736								
+svchost.exe	5216	UDP	desktop-dderd18	50777	*	*		6	702								
+svchost.exe	5216	UDP	DESKTOP-DDERD18	50778	*	*		6	702								
+svchost.exe	2220	UDP	DESKTOP-DDERD18	52376	*	*											
+svchost.exe	3768	UDP	DESKTOP-DDERD18	52377	*	*											
+svchost.exe	932	TCPV6	desktop-dderd18	epmap	desktop-dderd18	0	LISTENING										
+svchost.exe	1200	TCPV6	desktop-dderd18	ms-do	desktop-dderd18	0	LISTENING										
+svchost.exe	1128	TCPV6	desktop-dderd18	49666	desktop-dderd18	0	LISTENING										
+svchost.exe	1804	TCPV6	desktop-dderd18	49667	desktop-dderd18	0	LISTENING										
+svchost.exe	1464	TCPV6	desktop-dderd18	49668	desktop-dderd18	0	LISTENING										
+svchost.exe	5216	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	5216	UDPV6	desktop-dderd18	1900	*	*											
+svchost.exe	3768	UDPV6	desktop-dderd18	3702	*	*											
+svchost.exe	3560	UDPV6	desktop-dderd18	3702	*	*											
+svchost.exe	3768	UDPV6	desktop-dderd18	3702	*	*											
+svchost.exe	3560	UDPV6	desktop-dderd18	3702	*	*											
+svchost.exe	2016	UDPV6	desktop-dderd18	5353	*	*											
+svchost.exe	2016	UDPV6	desktop-dderd18	5355	*	*											
+svchost.exe	3560	UDPV6	desktop-dderd18	50284	*	*		14	8,736	52	64,372						
+svchost.exe	5216	UDPV6	desktop-dderd18	50775	*	*		6	666								
+svchost.exe	5216	UDPV6	[0:0:0:0:0:0:0:1]	50776	*	*		6	666								
+svchost.exe	3768	UDPV6	desktop-dderd18	52378	*	*											
+System	4	TCP	desktop-dderd18	netbios-ssn	DESKTOP-DDERD18	0	LISTENING										
+System	4	TCP	DESKTOP-DDERD18	microsoft-ds	DESKTOP-DDERD18	0	LISTENING										
+System	4	TCP	DESKTOP-DDERD18	wsd	DESKTOP-DDERD18	0	LISTENING										
+System	4	UDP	desktop-dderd18	netbios-ns	*	*		18	900	18	900						
+System	4	UDP	desktop-dderd18	netbios-dgm	*	*		3	522	3	522						
+System	4	TCPV6	desktop-dderd18	microsoft-ds	desktop-dderd18	0	LISTENING										
+System	4	TCPV6	desktop-dderd18	wsd	desktop-dderd18	0	LISTENING										
+wininit.exe	508	TCP	DESKTOP-DDERD18	49665	DESKTOP-DDERD18	0	LISTENING										
+wininit.exe	508	TCPV6	desktop-dderd18	49665	desktop-dderd18	0	LISTENING										
